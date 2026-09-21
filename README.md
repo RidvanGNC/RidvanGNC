@@ -12,9 +12,8 @@
 
 <!-- Sosyal Medya ve Ziyaretçi Rozetleri -->
 [![Portfolio](https://img.shields.io/badge/Portfolyo-ridvangnc.com-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ridvangnc.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rıdvan_Gonca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridvangonca/)
 [![GitHub](https://img.shields.io/badge/GitHub-RidvanGNC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidvanGNC)
-[![Profile Views](https://komarev.com/ghpvc/?username=RidvanGNC&color=007ACC&style=for-the-badge&label=Z%C4%B0YARET%C3%87%C4%B0)](https://github.com/RidvanGNC)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rıdvan_Gonca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridvangonca/)
 
 </div>
 
