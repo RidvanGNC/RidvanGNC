@@ -35,27 +35,17 @@
 
 ---
 
-## 🏆 Başarı Kupaları
+## 📊 İstatistikler ve Metrikler
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RidvanGNC&theme=onedark&column=6&margin-w=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📊 İstatistikler ve Grafiksel Metrikler
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RidvanGNC&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Rıdvan Gonca GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidvanGNC&layout=compact&theme=onedark&hide_border=true" alt="En Çok Kullanılan Diller" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RidvanGNC&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub İstatistikleri" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidvanGNC&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="En Çok Kullanılan Diller" width="49%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=RidvanGNC&theme=onedark&hide_border=true" alt="GitHub Streak Stats" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RidvanGNC&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=RidvanGNC&theme=dark&hide_border=true" alt="GitHub Streak İstatistikleri" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RidvanGNC&theme=dark" alt="Profil Detayları" width="49%" />
 
 </div>
 
