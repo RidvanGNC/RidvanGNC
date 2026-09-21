@@ -1,12 +1,20 @@
 <div align="center">
 
-# Rıdvan Gonca
+<!-- Dinamik Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=R%C4%B1dvan%20Gonca&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
-### **Yazılım Mühendisi & Veri Bilimci**
+<!-- Hareketli Daktilo Efekti -->
+<a href="https://ridvangnc.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=600&height=40&lines=Yaz%C4%B1l%C4%B1m+M%C3%BChendisi+%26+Veri+Bilimci;Makine+%C3%96%C4%9Frenmesi+%7C+RAG+%7C+Zaman+Serileri;Full-Stack+Web+%26+Masa%C3%BCst%C3%BC+Geli%C5%9Ftirici" alt="Typing SVG" />
+</a>
 
-[![Website](https://img.shields.io/badge/Website-ridvangnc.com-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ridvangnc.com/)
+<br/>
+
+<!-- Sosyal Medya ve Ziyaretçi Rozetleri -->
+[![Portfolio](https://img.shields.io/badge/Portfolyo-ridvangnc.com-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ridvangnc.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rıdvan_Gonca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridvangonca/)
 [![GitHub](https://img.shields.io/badge/GitHub-RidvanGNC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidvanGNC)
+[![Profile Views](https://komarev.com/ghpvc/?username=RidvanGNC&color=007ACC&style=for-the-badge&label=Z%C4%B0YARET%C3%87%C4%B0)](https://github.com/RidvanGNC)
 
 </div>
 
@@ -14,55 +22,45 @@
 
 ### ⚡ Hakkımda
 
-- 🧠 **Yapay Zeka & Veri Bilimi:** Makine Öğrenmesi (ML) boru hatları, Zaman Serisi Tahminleme, RAG ve Graph RAG mimarileri üzerine projeler geliştiriyorum.
-- 💻 **Yazılım Geliştirme:** Python (FastAPI / LLM), TypeScript, React ve Compose Multiplatform ile modern web ve masaüstü çözümleri üretiyorum.
-- ⚙️ **Donanım & İmalat:** Bileşen seviyesinde elektronik kart onarımı, gömülü sistemler ve 3D imalat ile ilgileniyorum.
+- 🧠 **Yapay Zeka & Veri Bilimi:** Makine Öğrenmesi (ML) boru hatları, Zaman Serisi Tahminleme modelleri, RAG ve Graph RAG mimarileri üzerine çalışıyorum.
+- 💻 **Yazılım Geliştirme:** Python (FastAPI / LLM), TypeScript, React ve Compose Multiplatform ile ölçeklenebilir web ve masaüstü sistemleri üretiyorum.
+- ⚙️ **Donanım & İmalat:** Elektronik kartlarda bileşen düzeyinde arıza tespiti ve onarımı, gömülü sistemler ve 3D imalat ile ilgileniyorum.
 
 ---
 
-### 🛠️ Teknolojiler ve Beceriler
+### 🛠️ Teknolojiler ve Araçlar
 
-<div align="center">
-
-#### Programlama Dilleri & Yapay Zeka
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,ts,js,postgres&perline=6" alt="Diller ve Yapay Zeka" />
-</p>
-
-#### Web, Masaüstü & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,tailwind,html,css&perline=6" alt="Frameworkler" />
-</p>
-
-#### DevOps, Sistem & Araçlar
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode&perline=6" alt="Araçlar" />
-</p>
-
-</div>
-
----
-
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RidvanGNC&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub İstatistikleri" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidvanGNC&layout=compact&theme=dark&hide_border=true" width="48%" alt="En Çok Kullanılan Diller" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=RidvanGNC&theme=dark&hide_border=true" width="97%" alt="Katkı Serisi" />
-
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>🧠 AI, Veri & Backend Dilleri</h4>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,fastapi,nodejs&theme=dark&perline=3" alt="Backend ve AI" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>💻 Frontend & Masaüstü Dilleri</h4>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css&theme=dark&perline=3" alt="Frontend Teknolojileri" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h4>🤖 Aktif Kullanılan AI Araçları</h4>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+      </p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h4>⚙️ Geliştirme Araçları & Altyapı</h4>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode&theme=dark&perline=3" alt="Geliştirme Araçları" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📬 İletişim
-
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Rıdvan_Gonca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridvangonca/)
-[![Website Badge](https://img.shields.io/badge/Portfolio-ridvangnc.com-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ridvangnc.com/)
+💼 **İletişim & Detaylar:** [ridvangnc.com](https://ridvangnc.com/) | [LinkedIn](https://www.linkedin.com/in/ridvangonca/)
 
 </div>
