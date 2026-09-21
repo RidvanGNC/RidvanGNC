@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RidvanGNC/RidvanGNC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba, ben Rıdvan Gonca 👋
 
-Here are some ideas to get you started:
+### **Software Engineer & Data Scientist**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/Website-ridvangnc.com-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ridvangnc.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rıdvan_Gonca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridvangonca/)
+[![GitHub](https://img.shields.io/badge/GitHub-RidvanGNC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RidvanGNC)
+
+</div>
+
+---
+
+## 🚀 Hakkımda
+
+- 🔭 **Uzmanlık Alanlarım:** Makine Öğrenmesi (ML) Boru Hatları, Zaman Serisi Tahminleme, RAG & Graph RAG Mimarileri ve Tam Yığın (Full-Stack) Yazılım Geliştirme.
+- 💡 **Odak Noktalarım:** Python tabanlı LLM entegrasyonları, Vektör Veritabanları (Qdrant), Graf Veritabanları (Neo4j) ve Modern Web / Masaüstü Teknolojileri (React, Compose Multiplatform).
+- ⚙️ **Diğer İlgi Alanlarım:** Donanım seviyesinde arıza tespiti/onarım, gömülü sistemler ve 3D imalat.
+- 🌐 **Kişisel Web Sitem:** [ridvangnc.com](https://ridvangnc.com/)
+
+---
+
+## 🛠️ Teknolojiler & Beceriler
+
+<div align="center">
+
+| Kategori | Teknolojiler & Araçlar |
+| :--- | :--- |
+| **Programlama Dilleri** | `Python` `TypeScript` `JavaScript` `C++` `SQL` |
+| **Yapay Zeka & Veri** | `PyTorch` `Pandas` `NumPy` `Qdrant` `Neo4j` `AutoML` |
+| **Arayüz & Uygulama** | `React` `Compose Multiplatform` `FastAPI` `Node.js` |
+| **DevOps & Donanım** | `Docker` `Git` `Linux` `3D Printing` |
+
+</div>
+
+---
+
+## 📊 GitHub İstatistikleri & Grafiksel Metrikler
+
+<div align="center">
+
+### 🏆 Başarı Trolleri & Rozetler
+![](https://github-profile-trophy.vercel.app/?username=RidvanGNC&theme=onedark&column=6&margin-w=15)
+
+<br/>
+
+| 📈 Genel İstatistikler | 🔤 En Çok Kullanılan Diller |
+| :---: | :---: |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=RidvanGNC&show_icons=true&theme=onedark&hide_border=true&count_private=true" /> | <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidvanGNC&layout=compact&theme=onedark&hide_border=true&hide=html" /> |
+
+<br/>
+
+### 🔥 Katkı Serisi (Streak) & Aktivite Grafiği
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RidvanGNC&theme=onedark&hide_border=true" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RidvanGNC&theme=react-dark&hide_border=true" width="49%" />
+
+</div>
+
+---
+
+## 📫 İletişim & Bağlantılar
+
+- 🌐 **Web:** [ridvangnc.com](https://ridvangnc.com/)
+- 💼 **LinkedIn:** [linkedin.com/in/ridvangonca](https://www.linkedin.com/in/ridvangonca/)
+- 🐙 **GitHub:** [github.com/RidvanGNC](https://github.com/RidvanGNC)
+
+<div align="center">
+  <sub><i>Bu profil istatistikleri ve grafikleri GitHub API üzerinden otomatik güncellenmektedir.</i></sub>
+</div>
