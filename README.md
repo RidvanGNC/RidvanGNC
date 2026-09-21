@@ -30,32 +30,29 @@
 
 ### 🛠️ Teknolojiler ve Araçlar
 
-<table width="100%" align="center">
+<div align="center">
+
+<table align="center" width="100%" cellpadding="15">
   <tr>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <h4>🧠 AI, Veri & Backend Dilleri</h4>
+      <br/>
       <img src="https://skillicons.dev/icons?i=python,pytorch,postgres,cpp,fastapi,nodejs&theme=dark&perline=3" alt="Backend ve AI" />
     </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <h4>💻 Frontend & Masaüstü Dilleri</h4>
+      <br/>
       <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css&theme=dark&perline=3" alt="Frontend Teknolojileri" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>🤖 Aktif Kullanılan AI Araçları</h4>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-      </p>
-    </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top" width="33%">
       <h4>⚙️ Geliştirme Araçları & Altyapı</h4>
+      <br/>
       <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode&theme=dark&perline=3" alt="Geliştirme Araçları" />
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
